@@ -1,5 +1,11 @@
+# Members:
+1. Md Tamim Ahamed_ID:2014286042
+2.Abdul Zabbar Dewan_ID:2013222042
+3.Mir Bayazid Protik_ID:1921085042
+
 # Medical-Diagnosis-Expert-System
-Medical Diagnosis Expert System: Create an expert system for medical diagnosis that assists healthcare professionals in diagnosing diseases based on patient symptoms and medical history. Utilize logic programming and knowledge representation techniques to encode medical knowledge and inference rules.											
+Medical Diagnosis Expert System: An expert system for medical diagnosis that assists healthcare professionals in diagnosing diseases based on patient symptoms and medical history. 
+Perperpose: Utilize logic programming and knowledge representation techniques to encode medical knowledge and inference rules.											
 # Data Set 
 The Meternal Health Risk Related dataset was collected from mendely and UCI Public Datasets:
 Dataset link: https://data.mendeley.com/datasets/p5w98dvbbk/1
