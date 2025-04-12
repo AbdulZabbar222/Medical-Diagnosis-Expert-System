@@ -1,0 +1,13 @@
+## Requirements.txt
+ import pandas as pd
+ import seaborn as sns
+ from matplotlib import pyplot as plt
+from sklearn.preprocessing import LabelEncoder
+from imblearn.over_sampling import SMOTE
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.svm import SVC
+from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import accuracy_score, precision_score, recall_score,f1_score, confusion_matrix, classification_report
+from sklearn.tree import DecisionTreeClassifier
+from lime.lime_tabular import LimeTabularExplainer
+from sklearn.svm import SVC
