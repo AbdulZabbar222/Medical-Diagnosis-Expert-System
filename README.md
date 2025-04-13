@@ -2,6 +2,7 @@
 ### 1. Md Tamim Ahamed_ID:2014286042
 ### 2. Abdul Zabbar Dewan_ID:2013222042
 ### 3. Mir Bayazid Protik_ID:1921085042
+### 4. Sayeb Rayat_ID:2012733042
 
 ## Medical-Diagnosis-Expert-System
 Medical Diagnosis Expert System: An expert system for medical diagnosis that assists healthcare professionals in diagnosing diseases based on patient symptoms and medical history. 
