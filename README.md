@@ -15,5 +15,12 @@ Dataset-2 link: https://archive.ics.uci.edu/dataset/863/maternal+health+risk
 Published: 14th August,2023.
 ## Dataset Type
 Public and Open source dataset. 
+## To Run the project
+#### 1.Download the MedicalExpartSystem.ipynp
+#### 2.Download the UpdatedDataSet.csv file 
+#### 3.Open Google Colab and Jupeter notebook
+#### 4.Upload the file MedicalExpartSystem.ipynp
+#### 5.Provide the dataset with correct file path.
+#### 6.Run the all code cells to run the project.  
 
 
